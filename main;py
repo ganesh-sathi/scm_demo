@@ -4,6 +4,15 @@ def print_hello():
 def print_om_nama_shivaya():
     print("Om Nama Shivaya !")
 
+def _llm_definition():
+    return {
+        "name": "scm_demo",
+        "description": "A demo for SCM",
+        "version": "1.0.0",
+        "author": "Your Name",
+        "license": "MIT"
+    }
+
 def __main__():
     print_om_nama_shivaya()
     print_hello()
