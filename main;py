@@ -1,1 +1,8 @@
-print (Jai Sriram")
+def print_hello():
+    print("Hello, World!")
+
+def __main__():
+    print("Om Nama Shivaya !")
+    print_hello()
+
+    
