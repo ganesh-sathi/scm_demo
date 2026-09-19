@@ -1,8 +1,10 @@
 def print_hello():
     print("Hello, World!")
 
-def __main__():
+def print_om_nama_shivaya():
     print("Om Nama Shivaya !")
+
+def __main__():
+    print_om_nama_shivaya()
     print_hello()
 
-    
